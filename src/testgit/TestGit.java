@@ -7,11 +7,10 @@ package testgit;
  */
 public class TestGit {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
+        String test= "";
+        System.out.println(test);
     }
     
 }
